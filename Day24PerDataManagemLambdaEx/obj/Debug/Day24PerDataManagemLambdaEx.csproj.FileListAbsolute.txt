@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\bin\Debug\Day24PerDataManagemLambdaEx.exe.config
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\bin\Debug\Day24PerDataManagemLambdaEx.exe
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\bin\Debug\Day24PerDataManagemLambdaEx.pdb
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\obj\Debug\Day24PerDataManagemLambdaEx.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\obj\Debug\Day24PerDataManagemLambdaEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\obj\Debug\Day24PerDataManagemLambdaEx.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\obj\Debug\Day24PerDataManagemLambdaEx.exe
+C:\Users\ADMIN\source\repos\Lambda Expression\PersonDataManaLambdaExpre24\Day24PerDataManagemLambdaEx\obj\Debug\Day24PerDataManagemLambdaEx.pdb
